@@ -16,7 +16,9 @@
 
 **Thoughts**: I understand the basics of coding but in the process of getting used to the approach in javascript.
 
-**Link(s) to work**: [Seek and Destroy] https://www.freecodecamp.com/challenges/seek-and-destroy (Shows solution on my account)
-                     [Where do I belong] https://www.freecodecamp.com/challenges/where-do-i-belong (Shows Solution on my account)
+**Link(s) to work**: 
+[Seek and Destroy] https://www.freecodecamp.com/challenges/seek-and-destroy (Shows solution on my freecodecamp account)
+[Where do I belong] https://www.freecodecamp.com/challenges/where-do-i-belong (Shows Solution on my account)
+[Caesars Cipher] https://www.freecodecamp.com/challenges/caesars-cipher (Shows solution on my account)
 
 
