@@ -31,3 +31,12 @@
 **Thoughts:** I am still trying to absorb and remember techniques in javascript. JQuery is a whole new type of syntax. Need to revisit this and appreciate a) what it does and b) how it is written c) how it links in with my existing knowledge of code. 
 
 **Links to Work**: Didn't really 'write' new code. Copied examples into existing examples and ran them to see how they worked. Need to appreciate style of writing this and what is does so can use it in future.
+
+### Day 3: Wednesday, June 14, 2017 
+##### 
+
+**Today's Progress**: Gain better understanding of JQuery calls
+
+**Thoughts:** Need to work through the syntax of JQuery to apprecaite structure
+
+**Links to Work**: No new code. Documenting the JQuery calls of this section of Free Code Camp.
