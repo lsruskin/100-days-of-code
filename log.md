@@ -40,3 +40,12 @@
 **Thoughts:** Need to work through the syntax of JQuery to apprecaite structure
 
 **Links to Work**: No new code. Documenting the JQuery calls of this section of Free Code Camp.
+
+### Day 4: Thursday, June 15, 2017 
+##### 
+
+**Today's Progress**: Designing for Random Quote Machine project
+
+**Thoughts:** Need sorce of quotes and means to extract and display them
+
+**Links to Work**: No new code. Documenting the plan for the Random Quote Machine project
